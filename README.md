@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front End
-- 🌱 I’m currently learning React Js and Node.Js
+- 🔭 I’m currently working on Front End with ReactJS and NodeJS
+- 🌱 I’m currently learning SQL
 
 <br><br>
 
