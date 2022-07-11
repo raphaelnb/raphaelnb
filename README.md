@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Front End with ReactJS and NodeJS
-- 🌱 I’m currently learning Elixir
+- 🌱 I’m currently learning Java, Python, C, Elixir
 
 <br><br>
 
